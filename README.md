@@ -1,33 +1,39 @@
-<!-- صورة البانر (ممكن تغير اللينك لأي صورة تانية) -->
-<div align="center">
-  <img src="<img width="540" height="220" alt="68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f62666462326537356338646633366463633963623432346166623338323961322f303732376665343737383764306130632d64382f73353430783831302f61373661363933633461663762646534313" src="https://github.com/user-attachments/assets/52d99cac-92ab-485a-8b6c-d22772dbd8ad" />
-" width="100%" height="200" style="object-fit: cover;" />
-</div>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);display: flex;justify-content: center;width: 100vw;" src="https://64.media.tumblr.com/bfdb2e75c8df36dcc9cb424afb3829a2/0727fe47787d0a0c-d8/s540x810/a76a693c4af7bde413ba288614b116899fcf5dfb.gif">
 
-<h1 align="center">Hi 👋, I'm Gouda</h1>
-<h3 align="center">Cybersecurity Enthusiast | Bug Bounty Hunter | CS Student</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Gouda</h1>
+<h3 align="center">Computer Science Student & Cybersecurity Enthusiast</h3>
 
-<!-- عدادات المشاهدات (غير كلمة YOUR_USERNAME لاسم حسابك) -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Gouda" /> </p>
+
+- 🔭 I’m currently working on **CS50 problem sets and Python automation scripts**
+
+- 🌱 I’m currently learning **ethical hacking, penetration testing, and German**
+
+- 💬 Ask me about **Python, SQL, Kali Linux, and Windows troubleshooting :)**
+
+- 📫 How to reach me: **[My LinkedIn Profile](https://www.linkedin.com/in/mohamed-gouda-a8388a277)**
+
+- ⚡ Fun fact: **I have a background in physical education and I'm a huge fan of Al Ahly and Real Madrid!**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/mohamed-gouda-a8388a277" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> 
+  </a>
 </p>
 
-- 🔭 I’m currently working on my **CS50 problem sets** and practicing competitive programming.
-- 🌱 I’m currently learning deeper into **Ethical Hacking, Penetration Testing, and Python automation**.
-- 💬 Ask me about **Windows troubleshooting, Kali Linux, and SQL**.
-- 📫 How to reach me: **[حط لينك لينكد إن أو إيميلك هنا]**
-
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </p>
 
-### 📊 GitHub Stats:
-<div align="center">
-  <!-- أداة الـ Streak (تذكر تغيير YOUR_USERNAME باسم حسابك) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" alt="GitHub Streak" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact" style="background-color: black;" alt="Mohamed Gouda" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en" alt="Gouda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&" alt="Gouda" /></p>
