@@ -1,6 +1,7 @@
 <!-- صورة البانر (ممكن تغير اللينك لأي صورة تانية) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%" height="200" style="object-fit: cover;" />
+  <img src="<img width="540" height="220" alt="68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f62666462326537356338646633366463633963623432346166623338323961322f303732376665343737383764306130632d64382f73353430783831302f61373661363933633461663762646534313" src="https://github.com/user-attachments/assets/52d99cac-92ab-485a-8b6c-d22772dbd8ad" />
+" width="100%" height="200" style="object-fit: cover;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Gouda</h1>
